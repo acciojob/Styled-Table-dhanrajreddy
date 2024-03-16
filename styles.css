@@ -1,19 +1,15 @@
-/* your code */
 tr{
-	height=25px;
+	height:25px;
 }
 
 table{
-	border-radius=30px;
+	border-radius:30px;
 }
 
 th{
-	background-color=blue;
+	background-color:blue;
 }
 
 .y{
-	background-color=pink;
+	background-color:pink;
 }
-
-
-
